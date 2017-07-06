@@ -37,9 +37,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "modifiedTime": 1499356210243,
+            "changeTime": 1499356210243,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
@@ -48,12 +48,13 @@
             "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1499358046098,
-            "changeTime": 1499358046098,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "modifiedTime": 1499288026340,
+            "changeTime": 1499288026340,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -62,12 +63,13 @@
             "sourcePath": "/home/rebecca/dxprojects/geolocation",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1499354762632,
-            "changeTime": 1499354762632,
-            "contentHash": "f4823324cf445a2723c8ff1e55c4226747e0e639",
+            "modifiedTime": 1499288523776,
+            "changeTime": 1499288523776,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true
+            "isWorkspace": true,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -814,222 +816,40 @@
     [
         "/home/rebecca/dxprojects/geolocation/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1499356760099,
             "changeTime": 1499356760099,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
         }
     ],
     [
         "/home/rebecca/dxprojects/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 303,
             "modifiedTime": 1499356760091,
             "changeTime": 1499356760099,
-            "contentHash": "fe4e425f079c1968a6a10c92795fa34856d71367",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fe4e425f079c1968a6a10c92795fa34856d71367"
         }
     ],
     [
         "/home/rebecca/dxprojects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1499356210283,
             "changeTime": 1499356210283,
-            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator",
-            "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1499358478360,
-            "changeTime": 1499358478360,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "size": 169,
-            "modifiedTime": 1499358377478,
-            "changeTime": 1499358377478,
-            "contentHash": "6c12bc2162471a5e734921e6fc4b05f061ed190e",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1499358046098,
-            "changeTime": 1499358046098,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 97,
-            "modifiedTime": 1499358478356,
-            "changeTime": 1499358478360,
-            "contentHash": "8fc1bd968c0bda07a5122cfc434a613372ee04ce",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1499358046098,
-            "changeTime": 1499358046098,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1499358046098,
-            "changeTime": 1499358046098,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1499358046102,
-            "changeTime": 1499358046102,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 267,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5429,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 17654,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "7728518dab3962f79430eb54069b315691a9400b"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5767,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "a10e74fdbe768a899b68167f4ac7c0f13124723d"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 5429,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "2edc3bf49c46276d990ccce2d0ef7571a8bd5147"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/tabs",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/tabs",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
-        }
-    ],
-    [
-        "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles",
-        {
-            "state": "u",
-            "sourcePath": "/home/rebecca/dxprojects/geolocation/force-app/main/default/profiles",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 4096,
-            "modifiedTime": 1499359030410,
-            "changeTime": 1499359030410,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "d388a388b0a95b0227831a265ba9b57f8672d004"
         }
     ]
 ]
